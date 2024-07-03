@@ -3,10 +3,15 @@
 
 **Some Features of the application is given below.**
 
-![app](img_readme/download-1.png)
-<p align="center">App View</p>
+![app](img/1.png)
+<p align="center">Home</p>
 <hr width="100%" color="black">
 
-![book](img_readme/reg_log.png)
-<p align="center">Register and Login</p>
+
+![app](img/2.png)
+<p align="center">Action</p>
+<hr width="100%" color="black">
+
+![app](img/3.png)
+<p align="center">Detail</p>
 <hr width="100%" color="black">
