@@ -1,7 +1,7 @@
 # HR Dashboard
 
 
-**Some Features of the application is given below.**
+**View of the dashboard is given below.**
 
 ![app](img/1.png)
 <p align="center">Home</p>
